@@ -1,5 +1,5 @@
-Complete EDA on Titanic dataset
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-mipt/blob/basic/week04_svm_pca/week04_complete_EDA.ipynb)
+линейная алгебра
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/aminovT/MADMO/blob/main/день%20первый/1.linear_algebra.ipynb)
 
 [Extra] SVD for pictures compression:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-mipt/blob/basic/week04_svm_pca/week04_extra_pictures_svd.ipynb)
