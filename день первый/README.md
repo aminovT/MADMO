@@ -10,4 +10,8 @@
 введение в matplotlib:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bc0J2Yi_ZYZWa7EsXf3IfIWjnr0PtpSO)
 
+домашнее задание:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZsmXrHGAYYluWR33Vho0dbdTX55TEjlu?authuser=1)
+
+
 
