@@ -2,6 +2,8 @@
 * Эта страница посвещена курсу МАДМО для сотрудников Себра
 * Тут будут появляться презентации, семинары и задания 
 
+# [Финальный тест](https://forms.gle/rWudFw92HdGxmWxH6) 
+ 
 # [Таблица с оценками](https://docs.google.com/spreadsheets/d/1FarLGZu94w4WyB7P-n1uqtM5vu3Z-AXRHZ8fmrzIPTM/edit?usp=sharing)
 
 # [Таблица для записи](https://docs.google.com/spreadsheets/d/1c1lg1PpkHNvxkkGct97LpNDtwB5yL9DMzqnTQ0h77fA/edit?usp=sharing)
